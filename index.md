@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a first-year Ph.D. student at Computer Vision Research Group of The University of Sheffield (TUoS). I am fortunate enough to have Prof. Jungong Han and Dr. Chen Chen as my supervisors. Previous to my PhD study, I obtained my bachelor's degree from Huazhong University of Science and Technology (HUST) in 2019 and my master's degree from University of Edinburgh (UoE) in 2020, respectively. I have also served as a Machine Learning Engineer in industry for nearly three year.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer vision:** vision-language foundation models, medical segmentation.
+- **Machine learning:** multimodal learning, transfer learning, robustness, fairness, generalization.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2023]** My PhD study is officially started!
+
 
 {% include_relative _includes/publications.md %}
 
