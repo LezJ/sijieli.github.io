@@ -9,7 +9,7 @@ I am a first-year Ph.D. student at Computer Vision Research Group of The Univers
 ## Research Interests
 
 - **Computer vision:** vision-language foundation models, medical segmentation.
-- **Machine learning:** multimodal learning, transfer learning, robustness, fairness, generalization.
+- **Machine learning:** multimodal learning, prompt engineering, transfer learning.
 
 ## News
 
