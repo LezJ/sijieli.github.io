@@ -18,7 +18,7 @@ I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of T
 
 ## News
 - **[May 2024 - Now]** Research Intern (part-time) at Huawei Cambridge Research Centre.
-- **[Dec. 2023]** My PhD study is officially started!
+- **[Dec. 2023]** My PhD study officially started!
 
 
 {% include_relative _includes/publications.md %}
