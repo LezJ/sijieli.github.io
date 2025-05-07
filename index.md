@@ -23,8 +23,7 @@ I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of T
 ### 1. Learning with Missing Modalities *(in submission)*  
 [Project page](https://lezj.github.io/SimMLM_project_page/)
 
-### 2. Visual Token Compression in Multimodal Large Language Models (MLLMs)  
-Multimodal large language models often suffer from inefficiency due to the high number of visual tokens required for image/video inputs (e.g. 576 visual token per image for LLaVA-1.5). The ongoing research explores efficient token compression techniques by identifying and pruning redundant or uninformative visual tokens, aiming to reduce computational overhead while preserving performance.
+### 2. MLLM compression
 
 ---
 
