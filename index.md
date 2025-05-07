@@ -21,7 +21,7 @@ I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of T
 ## Ongoing Research
 
 ### 1. Learning with Missing Modalities *(in submission)*  
-We propose a generic Mixture-of-Experts (MoE)-based architecture that enables dynamic learning with arbitrary combinations of available modalities. To further guide effective modality utilization, we introduce an auxiliary regularization loss. Our approach demonstrates state-of-the-art performance across multiple benchmarks—BraTS-2018 (multimodal medical segmentation), avMNIST (audio-image recognition), and UPMC-Food101 (text-image recipe classification)—while improving interpretability, computational efficiency, and robustness.
+[Project page](https://lezj.github.io/SimMLM_project_page/)
 
 ### 2. Visual Token Compression in Multimodal Large Language Models (MLLMs)  
 Multimodal large language models often suffer from inefficiency due to the high number of visual tokens required for image/video inputs (e.g. 576 visual token per image for LLaVA-1.5). The ongoing research explores efficient token compression techniques by identifying and pruning redundant or uninformative visual tokens, aiming to reduce computational overhead while preserving performance.
