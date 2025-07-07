@@ -6,7 +6,6 @@ layout: homepage
 
 I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of The University of Sheffield (TUoS). I am fortunate enough to have Prof. Jungong Han and Dr. Chen Chen as my advisors. Previous to my PhD study, I obtained my bachelor's degree from Huazhong University of Science and Technology (HUST) and my master's degree from University of Edinburgh (UoE), respectively. I have also served as a Machine Learning Engineer in industry for nearly three year.
 
-[My CV](./assets/files/CV_Sijie.pdf)
 
 ---
 
