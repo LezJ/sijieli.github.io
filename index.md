@@ -18,14 +18,18 @@ I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of T
 
 ---
 
-## Ongoing Research
+[//]: # (## Ongoing Research)
 
-### 1. Learning with Missing Modalities *(in submission)*  
-[Project page](https://lezj.github.io/SimMLM_project_page/)
+[//]: # ()
+[//]: # (### 1. Learning with Missing Modalities *&#40;in submission&#41;*  )
 
-### 2. MLLM compression
+[//]: # ([Project page]&#40;https://lezj.github.io/SimMLM_project_page/&#41;)
 
----
+[//]: # ()
+[//]: # (### 2. MLLM compression)
+
+[//]: # ()
+[//]: # (---)
 
 ## News
 - **[May 2024 - Now]** Research Intern (part-time) at Huawei Cambridge Research Centre.

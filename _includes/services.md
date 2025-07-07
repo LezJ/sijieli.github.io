@@ -25,3 +25,12 @@
 
   <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision &#40;IJCV&#41;</autocolor></a></li> -->
 </ul>
+
+<h4 style="margin:0 10px 0;">Others</h4>
+
+
+<ul style="margin:0 0 20px;">
+
+  <li>Local Arrangement Chair of <a href="https://bmvc2025.bmva.org/people/organisers/"><autocolor>BMVC 2025</autocolor></a></li>
+
+</ul>
