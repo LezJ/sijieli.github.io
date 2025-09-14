@@ -12,7 +12,9 @@ I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of T
 ## Research Interests
 
 - **Computer vision**
-- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.
+- **Multimodal learning:** Learning with constraints (e.g., missing modality, limited computing resources, etc).
+
+[//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 
 *I am currently open to all kinds of collaboration in the scope of multimodal learning and computer vision. <br>
 [Email me for discussion!](mailto:sli256@sheffield.ac.uk)* 
