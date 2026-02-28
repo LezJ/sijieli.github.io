@@ -4,15 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of The University of Sheffield (TUoS). I am fortunate enough to have Prof. Jungong Han and Dr. Chen Chen as my advisors. Previous to my PhD study, I obtained my bachelor's degree from Huazhong University of Science and Technology (HUST) and my master's degree from University of Edinburgh (UoE), respectively. I have also served as a Machine Learning Engineer in industry for nearly three year.
+I am a Ph.D. student (starting Dec. 2023) at Computer Vision Research Group of University of Sheffield, advised by Prof. [Jungong Han](https://https://scholar.google.co.uk/citations?user=hNi1gxAAAAAJ&hl=en) and Dr. [Chen Chen](https://cherise215.github.io/). Previous to my PhD study, I obtained my bachelor's degree from Huazhong University of Science and Technology (HUST) and my master's degree from University of Edinburgh (UoE), respectively. I have also served as a Machine Learning Engineer in industry for nearly three year.
 
 
 ---
 
 ## Research Interests
-
-- **Computer vision**
 - **Multimodal learning:** Learning with constraints (e.g., missing modality, limited computing resources, etc).
+- **Computer vision**
 
 [//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 

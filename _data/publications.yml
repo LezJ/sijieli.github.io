@@ -1,4 +1,12 @@
 main:
+  - title: "Mostly Text, Smart Visuals: Asymmetric Text-Visual Pruning for Large Vision-Language Models"
+  - authors: <strong>Sijie Li</strong>, Biao Qian, Jungong Han
+  - conference: "CVPR 2026"
+  - #    pdf: https://www.nature.com/articles/s41598-021-94742-z
+  - #    code: https://github.com/maiziezhoulab/Autism_genepheno
+  - #    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:h3aVOchPoucJ:scholar.google.com/&output=citation&scisdr=ClG1_gyxEKPJ4F5NCmM:AFWwaeYAAAAAZclLEmMiY8vksfYojQb0bx5eKcg&scisig=AFWwaeYAAAAAZclLEpNQ9A0sbb0d7h_ZQsYnLcs&scisf=4&ct=citation&cd=0&hl=en
+  - image: ./assets/img/ATV-Pruning.pdf
+
   - title: "SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality"
     authors: <strong>Sijie Li</strong>, Chen Chen, Jungong Han
     conference: "ICCV 2025"
