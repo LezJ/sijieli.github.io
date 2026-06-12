@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Representative Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -16,7 +16,14 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% assign title_link = link.paper | default: link.pdf %}
+      <div class="title">
+        {% if title_link %}
+        <a href="{{ title_link }}">{{ link.title }}</a>
+        {% else %}
+        {{ link.title }}
+        {% endif %}
+      </div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>

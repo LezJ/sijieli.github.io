@@ -13,7 +13,7 @@ In research, I value intellectual depth and elegant simplicity.
 
 ## Research Interests
 - **Multimodal learning:** Learning with constraints (e.g., missing modality, limited computing resources, etc).
-- **Foundation models:** LLM, MLLM & their compression, reasoning, applications, etc.
+- **Foundation models:** LLM, MLLM & their compression, efficiency, reasoning, applications, etc.
 
 [//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 
