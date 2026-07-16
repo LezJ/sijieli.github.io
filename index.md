@@ -17,26 +17,6 @@ In research, I value intellectual depth and elegant simplicity.
 
 [//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 
----
-
-[//]: # (## Ongoing Research)
-
-[//]: # ()
-[//]: # (### 1. Learning with Missing Modalities *&#40;in submission&#41;*  )
-
-[//]: # ([Project page]&#40;https://lezj.github.io/SimMLM_project_page/&#41;)
-
-[//]: # ()
-[//]: # (### 2. MLLM compression)
-
-[//]: # ()
-[//]: # (---)
-
-[//]: # (## News)
-
-[//]: # (- **[May 2024 - Now]** Research Intern &#40;part-time&#41; at Huawei Cambridge Research Centre.)
-
-[//]: # (- **[Dec. 2023]** My PhD study officially started!)
 
 ---
 
