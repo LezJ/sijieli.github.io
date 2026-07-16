@@ -17,8 +17,6 @@ In research, I value intellectual depth and elegant simplicity.
 
 [//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 
-*I am currently open to industrial internships or jobs.* 
-
 ---
 
 [//]: # (## Ongoing Research)
