@@ -17,8 +17,7 @@ In research, I value intellectual depth and elegant simplicity.
 
 [//]: # (- **Multimodal learning:** Multimodal foundation models & applications, efficiency, robustness, etc.)
 
-*I am currently open to all kinds of collaboration in the scope of multimodal learning and computer vision. <br>
-[Email me for discussion!](mailto:sli256@sheffield.ac.uk)* 
+*I am currently open to industrial internships or jobs.* 
 
 ---
 
