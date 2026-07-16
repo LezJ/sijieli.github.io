@@ -54,14 +54,14 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <a href="mailto:{{ site.email }}"><email>{{ site.email }}</email></a>
         {% endif %}
 
         <br>
         <br>
         <div class="social-icons">
         {% if site.email %}
-        <a style="margin: 0 5px 0 0" href="mailto:{{ site.email }}" title="{{ site.email }}" aria-label="Email {{ site.email }}">
+        <a style="margin: 0 5px 0 0" href="https://mail.google.com/mail/?view=cm&fs=1&to={{ site.email }}" target="_blank" rel="noopener" title="{{ site.email }}" aria-label="Email {{ site.email }}">
           <i class="fas fa-envelope"></i>
         </a>
         {% endif %}
