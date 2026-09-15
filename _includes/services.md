@@ -28,7 +28,7 @@
 
 <ul style="margin:0 0 20px;">
 
-  <li>IEEE TMC, TCSVT</li>
+  <li>IEEE TPAMI, TMC, TCSVT</li>
 
   <!-- <li><a href="https://ieee-cas.org/publication/tcsvt"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li> -->
 
