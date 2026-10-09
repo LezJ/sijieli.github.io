@@ -19,7 +19,7 @@
 
 <ul style="margin:0 0 20px;">
 
-  <li>NeurIPS, BMVC</li>
+  <li>ICLR, NeurIPS (Top Reviewer, 2026), BMVC</li>
 
 </ul>
 
